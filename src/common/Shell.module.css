@@ -1,0 +1,10 @@
+.footer {
+  padding-left: var(--sidebar-width);
+}
+
+.main {
+  padding-top: var(--header-height);
+  padding-left: var(--sidebar-width);
+  padding-bottom: var(--footer-height);
+  padding-right: 0;
+}
